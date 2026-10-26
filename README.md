@@ -12,35 +12,38 @@ I am a Cybersecurity Expert and GRC Analyst with a proven track record of bridgi
 🛠️ The Arsenal: Core Capabilities & Stack
 Cloud Security & Detection Engineering
 
-Cloud Architecture: AWS (CloudTrail, S3, Lambda, IAM), Serverless Event-Driven Pipelines, FinOps ($0.00 Spend Deployments)
+Cloud Architecture: 
+- AWS (CloudTrail, S3, Lambda, IAM), Serverless Event-Driven Pipelines, FinOps ($0.00 Spend Deployments)
 
-SIEM, XDR & Detection Engineering: Datadog, Splunk, Wazuh, Detection-as-Code (DaC)
+SIEM, XDR & Detection Engineering: 
+- Datadog, Splunk, Wazuh, Detection-as-Code (DaC)
 
 Governance, Risk & Compliance (GRC)
+- Frameworks:ISO/IEC 27001:2022, 20000, 22301, 27017, & 27032
 
-Frameworks: ISO/IEC 27001:2022, 20000, 22301, 27017, & 27032
-
-Execution: Continuous Vulnerability Management, Security Auditing, Policy Authoring, Audit Readiness & Executive Reporting
+Execution: 
+- Continuous Vulnerability Management, Security Auditing, Policy Authoring, Audit Readiness & Executive Reporting
 
 Security Engineering & Operations
 
-Vulnerability Management & Automation: Tenable Nessus, Ansible
+- Vulnerability Management & Automation: Tenable Nessus, Ansible
 
-Network & Infrastructure Security: Wireshark, FakeNet, Linux Hardening, Email Security (SPF, DKIM, DMARC)
+- Network & Infrastructure Security: Wireshark, FakeNet, Linux Hardening, Email Security (SPF, DKIM, DMARC)
 
-Threat Intelligence & Offensive Security
+- Threat Intelligence & Offensive Security
 
-Malware Analysis & Forensics: ANY.RUN, FireEye Redline, Ghidra
+- Malware Analysis & Forensics: ANY.RUN, FireEye Redline, Ghidra
 
-Threat Intel & Tracking: MISP, OSINT (e.g., Sea Turtle APT)
+- Threat Intel & Tracking: MISP, OSINT (e.g., Sea Turtle APT)
 
-Offensive Security: Burp Suite, OWASP ZAP, Web Application Penetration Testing (WAPT)
+Offensive Security: 
+- Burp Suite, OWASP ZAP, Web Application Penetration Testing (WAPT)
 
-🏆 Highlighted Engineering
-AWS Serverless SIEM (Zero-Spend & ISO 27001 Compliant): Engineered an event-driven cloud pipeline routing AWS CloudTrail telemetry through a hardened, 365-day retention S3 audit vault to Datadog via Python Lambda. Implemented custom Detection-as-Code logic and real-time Slack webhook incident alerting.
+🏆 Highlighted Engineering: 
+1. AWS Serverless SIEM (Zero-Spend & ISO 27001 Compliant): Engineered an event-driven cloud pipeline routing AWS CloudTrail telemetry through a hardened, 365-day retention S3 audit vault to Datadog via Python Lambda. Implemented custom Detection-as-Code logic and real-time Slack webhook incident alerting.
 
-IT/OT Security Testbed: Engineered a virtualized industrial network simulating vulnerabilities using OpenPLC and ScadaBR, monitored via Wazuh agents.
+2. IT/OT Security Testbed: Engineered a virtualized industrial network simulating vulnerabilities using OpenPLC and ScadaBR, monitored via Wazuh agents.
 
-Automated Threat Detection: Deployed an end-to-end Wazuh SIEM integrating Suricata IDS and the VirusTotal API for zero-touch malware remediation.
-
-Adversary Tracking & Forensics: Built comprehensive intelligence pipelines spanning SSH brute-force log analysis (SPL) and deep endpoint forensics (ANY.RUN vs. Redline).
+3. Automated Threat Detection: Deployed an end-to-end Wazuh SIEM integrating Suricata IDS and the VirusTotal API for zero-touch malware remediation.
+ 
+4. Adversary Tracking & Forensics: Built comprehensive intelligence pipelines spanning SSH brute-force log analysis (SPL) and deep endpoint forensics (ANY.RUN vs. Redline).
