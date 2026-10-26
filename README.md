@@ -3,7 +3,7 @@ I am a Cybersecurity Expert and GRC Analyst with a proven track record of bridgi
 
 👀 I'm interested in: Security Operations Center (SOC) engineering, cloud security architectures, IT/OT converged security testbeds, and adversary emulation.
 
-🌱 I'm currently focused on: I'm currently focused on: Engineering event-driven serverless SIEM pipelines in AWS, automated vulnerability management (Ansible, Tenable Nessus), and mapping security operations to ISO compliance frameworks (ISO 27001, 20000, 22301).
+🌱 I'm currently focused on: Engineering event-driven serverless SIEM pipelines in AWS, automated vulnerability management (Ansible, Tenable Nessus), and mapping security operations to ISO compliance frameworks (ISO 27001, 20000, 22301).
 
 💞️ I'm looking to collaborate on: Open-source detection engineering, cloud infrastructure security, and dynamic malware analysis workflows.
 
